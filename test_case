@@ -1,0 +1,209 @@
+TEST CASE 1
+***************
+Transaction function
+----------------------------------------------------------------
+addUser():
+_name: Nikhil Ram
+
+_aadhar: 12345678901234
+
+_panno:  EFOJ897JJIJN
+
+_userId: 0xc26412e7E6C6e00C72001cCaC2b25A6087dd6aE3
+
+_mobileno: 9543538348
+
+_photograph_ipfs_hash: ddvdfvdfvd4454tfdg4fre
+
+_dob: 03/05/1987
+
+----------------------------------------------------------------
+addBank() :
+uname: Bank of Indore
+
+eth: 0x778e4A458Ab08EFc4e7F3207e0E51AF83383cC32 
+
+regNum: 2321
+
+----------------------------------------------------------------
+addRequest():
+Uname:Nikhil Ram 
+
+bank_ethereum_Address:0x778e4A458Ab08EFc4e7F3207e0E51AF83383cC32 
+
+----------------------------------------------------------------
+allowBank():
+
+Uname: Nikhil Ram
+bank_ethereum_Address: 0x778e4A458Ab08EFc4e7F3207e0E51AF83383cC32 
+ifallowed: true
+----------------------------------------------------------------
+Call function:
+----------------------------------------------------------------
+getOrganisation():
+_eth:0x778e4A458Ab08EFc4e7F3207e0E51AF83383cC32
+
+output:
+0: string: Bank of indore
+1: address: 0x778e4A458Ab08EFc4e7F3207e0E51AF83383cC32
+2: string: 2321
+---------------------------------------------------------------
+getUser():
+
+_userId:0xc26412e7E6C6e00C72001cCaC2b25A6087dd6aE3
+
+outut:
+
+0: string: Nikhil Ram
+1: uint256: 1234567901234
+2: string: EFOJ897JJIJN
+3: uint256: 9543538348
+4: string: ddvdfvdfvd4454tfdg4fre
+5: string: 03/05/1987
+-----------------------------------------------------------------
+
+
+
+
+TEST CASE 2
+***************
+Transaction function
+----------------------------------------------------------------
+addUser():
+_name: Ashwin Ram
+
+_aadhar: 43215678901234
+
+_panno:  DUBJHU997JJIJN
+
+_userId: 0x2c6412e7E6C6e00C72001cCaC2b25A6087dd6aE3
+
+_mobileno: 9845545445
+
+_photograph_ipfs_hash: grgrvfvdfvd4454tfdg4fre
+
+_dob: 04/03/1997
+
+----------------------------------------------------------------
+addBank() :
+uname: Bank of kerala
+
+eth: 0x118e4A458Ab08EFc4e7F3207e0E51AF83383cC32 
+
+regNum: 43321
+
+----------------------------------------------------------------
+addRequest():
+Uname:Ashwin Ram 
+
+bank_ethereum_Address:0x118e4A458Ab08EFc4e7F3207e0E51AF83383cC32 
+
+----------------------------------------------------------------
+allowBank():
+
+Uname: Ashwin Ram
+bank_ethereum_Address: 0x118e4A458Ab08EFc4e7F3207e0E51AF83383cC32 
+ifallowed: true
+----------------------------------------------------------------
+Call function:
+----------------------------------------------------------------
+getOrganisation():
+_eth:0x118e4A458Ab08EFc4e7F3207e0E51AF83383cC32
+
+output:
+0: string: Bank of kerala
+1: address: 0x118e4A458Ab08EFc4e7F3207e0E51AF83383cC32
+2: string: 43321
+---------------------------------------------------------------
+getUser():
+
+_userId:0xc26412e7E6C6e00C72001cCaC2b25A6087dd6aE3
+
+outut:
+
+0: string: Ashwin Ram
+1: uint256: 4321567901234
+2: string: DUBJHU997JJIJN
+3: uint256: 9845545445
+4: string: grgrvfvdfvd4454tfdg4fre
+5: string: 04/03/1997
+-----------------------------------------------------------------
+
+
+
+TEST CASE 3
+***************
+Transaction function
+----------------------------------------------------------------
+addUser():
+_name: Ram vyas
+
+_aadhar: 65432178901234
+
+_panno:  EFOJ897JJIJN
+
+_userId: 0x432102e7E6C6e00C72001cCaC2b25A6087dd6aE3
+
+_mobileno: 9874545445
+
+_photograph_ipfs_hash: dxwqavdfvd4454tfdg4fre
+
+_dob: 02/03/1992
+
+----------------------------------------------------------------
+addBank() :
+uname: Bank of punjab
+
+eth: 0xbgfvfd345Ab08EFc4e7F3207e0E51AF83383cC32 
+
+regNum: 98986
+
+----------------------------------------------------------------
+addRequest():
+Uname:Nikhil Ram 
+
+bank_ethereum_Address:0xbgfvfd345Ab08EFc4e7F3207e0E51AF83383cC32 
+
+----------------------------------------------------------------
+allowBank():
+
+Uname: Nikhil Ram
+bank_ethereum_Address: 0xbgfvfd345Ab08EFc4e7F3207e0E51AF83383cC32 
+ifallowed: true
+----------------------------------------------------------------
+Call function:
+----------------------------------------------------------------
+getOrganisation():
+_eth:0xbgfvfd345Ab08EFc4e7F3207e0E51AF83383cC32
+
+output:
+0: string: Bank of punjab
+1: address: 0xbgfvfd345Ab08EFc4e7F3207e0E51AF83383cC32
+2: string: 98986
+---------------------------------------------------------------
+getUser():
+
+_userId:0xc26412e7E6C6e00C72001cCaC2b25A6087dd6aE3
+
+outut:
+
+0: string: Nikhil Ram
+1: uint256: 6543217901234
+2: string: EFOJ897JJIJN
+
+
+
+_mobileno: 9874545445
+
+_photograph_ipfs_hash: dxwqavdfvd4454tfdg4fre
+
+_dob: 02/03/1992
+3: uint256: 9874545445
+4: string: dxwqavdfvd4454tfdg4fre
+5: string: 02/03/1992
+-----------------------------------------------------------------
+
+
+
+
+
