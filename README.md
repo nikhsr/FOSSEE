@@ -4,7 +4,7 @@ Digital Identity - KYC
 
 README
 ****************************************************************************************************************************************************************************
-Ellipticle curve algorithm may be incorporated to generate public and private key pair for digital signature of citizens data.
+Elliptic curve algorithm may be incorporated to generate public and private key pair for digital signature of citizens data.
 Inter Planetary  File system is used to store citizens photograph. 
 Citizen---->
    *Full Name
